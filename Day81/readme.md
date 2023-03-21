@@ -9,6 +9,7 @@ It contains at least one special character. The special characters are: !@#$%^&*
 
 She typed a random string of length n in the password field but wasn’t sure if it was strong. Given the string she typed, can you find the minimum number of characters she must add to make her password strong?
 
+
 Note: Here’s the set of types of characters in a form you can paste in your solution:
 ```
 numbers = “0123456789”
