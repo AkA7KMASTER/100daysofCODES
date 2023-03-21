@@ -9,6 +9,7 @@ The maximum height candles are 4 units high. There are 2 of them, so return 2.
 
 ### Function Description
 
+
 Complete the function birthdayCakeCandles in the editor below. It must return an integer representing the number of candles she can blow out.
 
 birthdayCakeCandles has the following parameter(s):  
