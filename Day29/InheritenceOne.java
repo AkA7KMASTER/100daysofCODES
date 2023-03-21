@@ -1,5 +1,5 @@
 /*
-Problem Link:https://www.hackerrank.com/challenges/java-inheritance-1/
+
 Using inheritance, one class can acquire the properties of others. Consider the following Animal class:
 class Animal{
     void walk(){
@@ -24,7 +24,7 @@ public class Solution{
    }
 }
 
-The code above is provided for you in your editor. 
+The code above is provided for you 
 You must add a sing method to the Bird class, then modify the main method accordingly so that the 
 code prints the following lines:
 
