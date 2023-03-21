@@ -8,6 +8,7 @@ class Result {
      * The function is expected to return a STRING.
      * The function accepts STRING s as parameter.
      */
+    
 
     public static String superReducedString(String s) {
         // Write your code here
