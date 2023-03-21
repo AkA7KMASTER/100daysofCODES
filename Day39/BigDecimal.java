@@ -1,4 +1,5 @@
 /*
+
 Java BigDecimal class can handle arbitrary-precision signed decimal numbers. Lets test your knowledge on them!
 
 You are given nn real numbers, sort them in descending order! Read data from System.in.
