@@ -12,6 +12,7 @@ class Node {
     }
 }
 
+
 public class InsertionBST {
 
     public static void preOrder(Node root) {
