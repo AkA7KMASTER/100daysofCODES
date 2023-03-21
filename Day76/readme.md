@@ -3,6 +3,7 @@ A bracket is considered to be any one of the following characters: (, ), {, }, [
 
 By this logic, we say a sequence of brackets is balanced if the following conditions are met:
 
+
 1. It contains no unmatched brackets.
 
 2. The subset of brackets enclosed within the confines of a matched pair of brackets is also a matched pair of brackets.
