@@ -1,4 +1,5 @@
 /*
+0. In this proram
 1. You are required to print the Greatest Common Divisor (GCD) of two numbers.
 2. Take input "num1" and "num2" as the two numbers.
 3. Print their GCD
