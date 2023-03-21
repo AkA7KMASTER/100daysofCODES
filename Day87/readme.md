@@ -7,6 +7,7 @@ For example, there are n=3 cities and m=1 of them has a space station, city 1. T
 
 Complete the flatlandSpaceStations function in the editor below. It should return an integer that represents the maximum distance any city is from a space station.
 
+
 flatlandSpaceStations has the following parameter(s):
 
 - n: the number of cities
