@@ -1,4 +1,5 @@
-//Write a program to check whether your given no is palindrome or not
+// 0. In this proram
+//1.  check whether your given no is palindrome or not
 import java.util.*;
 class palindrome {
     public static void main(String[] args) {
