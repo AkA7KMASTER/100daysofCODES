@@ -3,6 +3,7 @@ Given a pointer to the head of a linked list and a specific position, determine 
   
 ### Function Description
 Complete the getNode function in the editor below.  
+
   
 getNode has the following parameters:  
 ->SinglyLinkedListNode pointer head: refers to the head of the list  
