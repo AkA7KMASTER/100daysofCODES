@@ -1,3 +1,5 @@
+// 0. In this program
+// 1. We are going to use one of the Simple and easy to implement Sorting Techanique that is Selection Sort
 import java.util.*;
 class SelectionSort {
   public static void printArray(int arr[]) {
