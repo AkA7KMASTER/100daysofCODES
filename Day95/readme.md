@@ -6,6 +6,7 @@ Write a function to determine if a number is strobogrammatic.
 ## Example
 The numbers “69”, “88”, and “818” are all strobogrammatic.
 
+
 ## Input
 - an Integer
 
