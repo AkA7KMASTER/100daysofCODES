@@ -8,6 +8,7 @@ For example, if n=30, we calculate 30 * 29 * 28 *…. * 2 * 1 and get 2652528598
 
 ## Function Description
 
+
 Complete the extraLongFactorials function in the editor below. It should print the result and return.  
 extraLongFactorials has the following parameter(s):
 
