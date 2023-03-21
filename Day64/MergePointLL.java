@@ -5,6 +5,7 @@ public class MergePointLL {
 
     static class SinglyLinkedListNode {
         public int data;
+        
         public SinglyLinkedListNode next;
 
         public SinglyLinkedListNode(int nodeData) {
