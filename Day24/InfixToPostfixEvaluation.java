@@ -11,6 +11,7 @@
  Output:
  25
 */
+
 import java.util.Stack;
 
 class StackImplementation {
