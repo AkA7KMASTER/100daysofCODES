@@ -12,6 +12,7 @@ public class PokerHands {
             this.level = level;
         }
     }
+    
 
     public enum TYPE {
         CLOVER(1), HEART(2), DIAMOND(3), SPADE(4);
