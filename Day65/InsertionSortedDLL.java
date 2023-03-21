@@ -8,6 +8,7 @@ class DoublyLinkedListNode {
 
     public DoublyLinkedListNode(int nodeData) {
         this.data = nodeData;
+        
         this.next = null;
         this.prev = null;
     }
