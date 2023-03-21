@@ -34,6 +34,7 @@ w will contain only letters in the range ascii[a..z].
 
 ## Sample Input
 ```
+
 5
 ab
 bb
