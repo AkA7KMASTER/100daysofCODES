@@ -10,6 +10,7 @@ public class FlatlandSpaceStations {
         return 0;
         else
         {
+            
             for(int i=0;i<n;i++)
             {
               int min=Math.abs(c[0]-i);
