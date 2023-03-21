@@ -1,3 +1,6 @@
+// 0. In this program
+// 1. We are going to impliment Stack using Array
+// 2. So Stack follow LIFO Term that means Last In First Out 
 import java.util.*;
 class Stack {
   int top = -1;
