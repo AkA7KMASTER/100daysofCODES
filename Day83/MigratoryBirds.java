@@ -7,6 +7,7 @@ public class MigratoryBirds {
         int result = 1; int max = 0;
         for (int i = 0; i < n; i++) {
             counter[ar[i]]++;
+            
         }
 
         for (int i = 1; i <= 5; i++) {
