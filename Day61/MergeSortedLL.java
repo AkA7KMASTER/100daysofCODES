@@ -1,3 +1,25 @@
+/*
+Problem Statement
+You’re given the pointer to the head nodes of two sorted linked lists. The data in both lists will be sorted in 
+ascending order. Change the next pointers to obtain a single, merged linked list which also has data in ascending 
+order. Either head pointer given may be null meaning that the corresponding list is empty.
+
+Sample Input
+1
+3
+1
+2
+3
+2
+3
+4
+Sample Output
+1 2 3 3 4 
+Explanation
+The first linked list is: 1 -> 2 -> 3 -> NULL
+The second linked list is: 3 -> 4 -> NULL
+Hence, the merged linked list is: 1 -> 2 -> 3 -> 3 -> 4 -> NULL
+*/
 import java.io.*;
 import java.util.*;
 
