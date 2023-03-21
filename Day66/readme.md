@@ -11,6 +11,7 @@ reverse has the following parameter(s):
 
 DoublyLinkedListNode head: a reference to the head of a DoublyLinkedList
 
+
 ### Returns
 - DoublyLinkedListNode: a reference to the head of the reversed list
 
