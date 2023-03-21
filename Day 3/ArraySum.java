@@ -1,3 +1,5 @@
+// 0. In this proram
+// We have N Array and we gonna add the N Array into One Array
 import java.util.*;
 public class ArraySum{
     public static void main(String[] args) {
