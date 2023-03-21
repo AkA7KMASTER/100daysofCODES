@@ -1,3 +1,33 @@
+/*
+Problem Statement
+You’re given the pointer to the head nodes of two linked lists. Compare the data in the nodes of the linked lists to
+check if they are equal. If all data attributes are equal and the lists are the same length, return 1. Otherwise, 
+return 0.
+
+Sample Input
+2
+2
+1
+2
+1
+1
+2
+1
+2
+2
+1
+2
+
+Sample Output
+0
+1
+
+Explanation
+There are t=2 test cases, each with a pair of linked lists.
+In the first case, linked lists are: 1 -> 2 -> NULL and 1 -> NULL
+In the second case, linked lists are: 1 -> 2 -> NULL and 1 -> 2 -> NULL
+
+*/
 import java.io.*;
 import java.util.*;
 
@@ -48,17 +78,6 @@ public class CompareLL {
         }
     }
 
-    // Complete the compareLists function below.
-
-    /*
-     * For your reference:
-     *
-     * SinglyLinkedListNode {
-     * int data;
-     * SinglyLinkedListNode next;
-     * }
-     *
-     */
     static boolean compareLists(SinglyLinkedListNode head1, SinglyLinkedListNode head2) {
         try {
             while (head1.data == head2.data) {
