@@ -1,3 +1,10 @@
+// 0. In this proram
+// Sample Input
+// 6
+// 1 2 3 4 10 11
+// Sample Output
+// 31
+
 import java.util.*;
 public class ArrayElementSum {
     public static void main(String[] args) {
