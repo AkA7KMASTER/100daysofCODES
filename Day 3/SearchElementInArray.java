@@ -1,3 +1,6 @@
+
+// 0. In this proram
+// 1. We have to find an element in given array using a Searching Algorithms
 import java.util.*;
 public class SearchElementInArray {
     public static void main(String[] args) {
