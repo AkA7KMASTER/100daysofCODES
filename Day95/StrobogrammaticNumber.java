@@ -7,6 +7,7 @@ public class StrobogrammaticNumber {
             return '6';
         else 
             return a;   
+        
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
