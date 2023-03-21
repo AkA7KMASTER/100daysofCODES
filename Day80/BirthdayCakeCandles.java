@@ -21,6 +21,7 @@ class Result {
             max = candles.get(i);
         }
         for(int i=0;i<candles.size();i++){
+            
             if(candles.get(i)==max)
             count++;
         }
