@@ -8,6 +8,7 @@ The task is to find their comparison points by comparing a[0] with b[0], a[1] wi
 1. If a[i] > b[i], then Alice is awarded 1 point.
 
 2. If a[i] < b[i], then Bob is awarded 1 point.
+3. 
 
 3. If a[i] = b[i], then neither person receives a point.
 
