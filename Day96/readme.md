@@ -9,6 +9,7 @@ Complete the strangeCounter function in the editor below.
 strangeCounter has the following parameter(s):
 
 - int t: an integer
+- 
 
 ## Returns
 
