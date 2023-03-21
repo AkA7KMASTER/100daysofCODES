@@ -7,6 +7,7 @@ Delete as many characters as possible using this method and return the resulting
 
 s=’aab’
 
+
 aab shortens to b in one operation: remove the adjacent a characters.
 
 s=’abba’
