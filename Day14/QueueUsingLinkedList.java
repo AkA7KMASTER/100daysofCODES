@@ -1,5 +1,6 @@
 import java.util.*;
-
+// 0. In this program
+// 1. We apply Queue using Linked List So that we can Some how Push element from last also
 class node {
   node next;
   int data;
