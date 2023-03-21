@@ -1,3 +1,5 @@
+// 0. In this proram
+// 1. We have actually print the Reverse of given array
 import java.util.*;
 public class ReverseArray {
     public static void main(String[] args) {
