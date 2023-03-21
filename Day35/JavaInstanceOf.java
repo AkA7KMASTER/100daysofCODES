@@ -20,8 +20,6 @@ Hacker
 Sample Output
 
 3 1 1
-
-
 */
 
 import java.util.*;
