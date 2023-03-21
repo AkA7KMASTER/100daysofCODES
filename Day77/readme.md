@@ -8,6 +8,7 @@ Given the sweetness of a number of cookies, determine the minimum number of oper
 ### Function Description
 Complete the cookies function in the editor below.
 
+
 cookies has the following parameters:
 
 1. int k: the threshold value
