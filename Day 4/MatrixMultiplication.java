@@ -1,5 +1,5 @@
 /*
-Question taken from:https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/matrix-multiplication-official/ojquestion
+0. In this proram
 1. You are given a number n1, representing the number of rows of 1st matrix.
 2. You are given a number m1, representing the number of columns of 1st matrix.
 3. You are given n1*m1 numbers, representing elements of 2d array a1.
