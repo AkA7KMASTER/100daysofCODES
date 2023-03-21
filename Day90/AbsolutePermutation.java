@@ -13,6 +13,7 @@ class Result {
      *  1. INTEGER n
      *  2. INTEGER k
      */
+    
 
     public static List<Integer> absolutePermutation(int n, int k) {
     // Write your code here
