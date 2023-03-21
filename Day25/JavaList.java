@@ -7,6 +7,7 @@ For this problem, we have  types of queries you can perform on a List:
 ````
 Insert
 x y
+
 ````
 
 2.Delete the element at index x:
