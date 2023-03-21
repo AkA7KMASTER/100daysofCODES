@@ -7,6 +7,7 @@ Find the maximum possible height of the stacks such that all of the stacks are e
 
 Complete the equalStacks function in the editor below.
 
+
 equalStacks has the following parameters:
 
 int h1[n1]: the first array of heights
