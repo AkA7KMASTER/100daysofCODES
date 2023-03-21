@@ -11,6 +11,7 @@ Node * insert (Node * root ,int data) {
 ```
 ### Constraints
 
+
 No. of nodes in the tree  500
 ### Output Format
 
