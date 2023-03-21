@@ -2,6 +2,7 @@ import java.io.*;
 
 class Result {
 
+    
     /*
      * Complete the 'minimumNumber' function below.
      *
