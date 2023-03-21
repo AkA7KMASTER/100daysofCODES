@@ -11,6 +11,7 @@ class Result {
      * The function accepts STRING s as parameter.
      */
 
+    
     public static String isBalanced(String s) {
         if( s.length() % 2 != 0)
             return "NO";
