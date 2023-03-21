@@ -10,6 +10,7 @@ k = 2
 
 Create an array of elements from 1 to n, pos = [1, 2, 3, 4]. Using based indexing, create a permutation where every |pos[i] - i| = k. It can be rearranged to [3, 4, 1, 2] so that all of the absolute differences equal k = 2:
 
+
 ```
 pos[i]  i   |pos[i] - i|
   3     1        2
