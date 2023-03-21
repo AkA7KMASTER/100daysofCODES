@@ -1,3 +1,26 @@
+/*
+Problem Statement :
+Delete the node at a given position in a linked list and return a reference to the head node. The head is at position 0.
+The list may be empty after you delete the node. In that case, return a null value.
+
+Sample Input:
+8
+20
+6
+2
+19
+7
+4
+15
+9
+3
+
+Sample Output:
+20 6 2 7 4 15 9
+
+Explaination:
+The original list is 20->6->2->19->7->4->15->9. After deleting the node at position 3, the list is 20->6->2->7->4->15->9.
+*/
 import java.io.*;
 import java.util.stream.*;
 
