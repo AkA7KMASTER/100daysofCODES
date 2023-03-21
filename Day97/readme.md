@@ -6,6 +6,7 @@ Your local library needs your help! Given the expected and actual return dates f
 - If the book is returned after the expected return month but still within the same calendar year as the expected return date, the fine = 500 Hackos * (the number of months late).
 - If the book is returned after the calendar year in which it was expected, there is a fixed fine of 10000 Hackos.
 
+
 Charges are based only on the least precise measure of lateness. For example, whether a book is due January 1, 2017 or December 31, 2017, if it is returned January 1, 2018, that is a year late and the fine would be 10,000 Hackos.
 
 ## Function Description
