@@ -6,6 +6,7 @@ Given a reference to the head of a doubly-linked list and an integer, data, crea
 Complete the sortedInsert function in the editor below.  
 sortedInsert has two parameters:  
 -->DoublyLinkedListNode pointer head: a reference to the head of a doubly-linked list.   
+
 -->int data: An integer denoting the value of the  field for the DoublyLinkedListNode you must insert into the list.  
 
 ### Returns
