@@ -4,6 +4,7 @@ import java.util.stream.*;
 class SinglyLinkedListNode {
     public int data;
     public SinglyLinkedListNode next;
+    
 
     public SinglyLinkedListNode(int nodeData) {
         this.data = nodeData;
