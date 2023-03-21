@@ -1,5 +1,5 @@
 /*
-Write a program to count the number of occurrences of any two vowels in succession in a line of text.
+In this proram to count the number of occurrences of any two vowels in succession in a line of text.
 For example, in the sentence “Pleases read this application and give me gratuity ” 
 such occurrences are ea, ea, ui.
 
