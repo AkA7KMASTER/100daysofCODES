@@ -11,6 +11,7 @@ Note -The Height of binary tree with single node is taken as zero.
 
 ### Input Format
 
+
 The first line contains an integer n, the number of nodes in the tree.
 Next line contains n space separated integer where th integer denotes node[i].data.
 
