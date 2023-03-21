@@ -1,4 +1,4 @@
-//Program to count no of vowels present in the sentence
+//In this program to count no of vowels present in the sentence
 
 import java.util.*;
 public class CountVowel {
