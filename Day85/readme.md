@@ -9,6 +9,7 @@ In both calendar systems, February is the only month with a variable amount of d
 - Divisible by 4 and not divisible by 100.  
 
 
+
 Given a year,y, find the date of the 256th day of that year according to the official Russian calendar during that year. Then print it in the format dd.mm.yyyy, where dd is the two-digit day, mm is the two-digit month, and yyyy is y.
 
 For example, the given  year= 1984. 1984 is divisible by 4, so it is a leap year. The 256th day of a leap year after 1918 is September 12, so the answer is 12.09.1984.
