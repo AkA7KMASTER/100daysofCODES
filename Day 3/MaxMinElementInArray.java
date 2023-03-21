@@ -1,3 +1,5 @@
+// 0. In this proram
+// We have to find max and min in given array
 import java.util.*;
 public class MaxMinElementInArray {
     public static void main(String[] args) {
