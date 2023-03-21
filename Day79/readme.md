@@ -14,6 +14,7 @@ Their absolute difference is |15-17| = 2.
 
 ### Function Description
 
+
 Complete the DiagonalDifference function in the editor below. It must return an integer representing the absolute diagonal difference.
 
 diagonalDifference takes the following parameter:
