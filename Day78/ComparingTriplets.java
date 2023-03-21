@@ -14,6 +14,7 @@ class Result {
      *  1. INTEGER_ARRAY a
      *  2. INTEGER_ARRAY b
      */
+    
 
     public static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
         List<Integer> result = new ArrayList<>();
