@@ -13,7 +13,8 @@ class Result {
      * The function accepts STRING_ARRAY operations as parameter.
      */
 
-    public static List<Integer> getMax(List<String> operations) {
+    public static List<Integer> getMax(List
+                                       <String> operations) {
     // Write your code here
         List<Integer> answer = new ArrayList<>();
         Stack<Integer> stack = new Stack<>();
