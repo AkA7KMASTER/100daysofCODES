@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.stream.*;
 
 class Result {
+    
 
     /*
      * Complete the 'taumBday' function below.
