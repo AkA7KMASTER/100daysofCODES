@@ -1,3 +1,5 @@
+// 0. In this program
+// 1. Queue follow FIFO Rule which means First In First Out
 import java.util.*;
 class Queue {
     static Scanner sc = new Scanner(System.in);
