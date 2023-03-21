@@ -1,3 +1,24 @@
+/*
+Problem Statement
+Given a pointer to the head of a linked list and a specific position, determine the data value at that position. Count 
+backwards from the tail node. The tail is at postion 0, its parent is at 1 and so on.
+Sample Input
+2
+1
+1
+0
+3
+3
+2
+1
+2
+Sample Output
+1
+3
+Explanation
+In the first case, there is one element in linked list with a value of 1. The last (only) element contains 1.
+In the second case, the list is 3->2->1->NULL. The element with position of 2 from tail contains 3.
+*/
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
