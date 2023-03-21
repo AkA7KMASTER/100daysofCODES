@@ -13,6 +13,7 @@ In the card game poker, a hand consists of five cards and are ranked, from lowes
 - Royal Flush: Ten, Jack, Queen, King, Ace, in same suit.
 
 
+
 The cards are valued in the order:  
 **2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King, Ace.**
 
