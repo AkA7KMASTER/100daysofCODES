@@ -37,6 +37,7 @@ public class StackUsingLinkedList {
       }
     }
   }
+  
 
   static void push() {
     System.out.println("Enter value which you want to enter:");
