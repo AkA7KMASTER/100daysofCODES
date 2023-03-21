@@ -24,6 +24,7 @@ class Result {
             }
             max = Math.max(max, i - start + 1);
             i++;
+            
         }
         i--;
         return Math.max(max, i - start + 1);
