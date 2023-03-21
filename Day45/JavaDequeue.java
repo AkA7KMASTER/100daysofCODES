@@ -1,13 +1,4 @@
 /*
-In computer science, a double-ended queue (dequeue, often abbreviated to deque, pronounced deck) is an abstract data type that 
-generalizes a queue, for which elements can be added to or removed from either the front (head) or back (tail).
-
-Deque interfaces can be implemented using various types of collections such as LinkedList or ArrayDeque classes. 
-For example, deque can be declared as:
-Deque deque = new LinkedList<>();
-or
-Deque deque = new ArrayDeque<>();
-
 Problem Statement:
 
 In this problem, you are given N integers. You need to find the maximum number of unique integers among all the possible contiguous 
