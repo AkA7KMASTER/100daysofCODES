@@ -1,3 +1,31 @@
+/*
+Problem Statement
+You are given the pointer to the head node of a linked list and an integer to add to the list. Create a new node with 
+the given integer. Insert this node at the tail of the linked list and return the head node of the linked list formed 
+after inserting this new node. The given head pointer may be null, meaning that the initial list is empty.
+
+Sample Input
+
+141
+302
+164
+530
+Sample Output
+
+141
+302
+164
+530
+474
+
+Explanation
+
+First the linked list is NULL. After inserting 141, the list is 141 -> NULL.
+After inserting 302, the list is 141 -> 302 -> NULL.
+After inserting 164, the list is 141 -> 302 -> 164 -> NULL.
+After inserting 530, the list is 141 -> 302 -> 164 -> 530 -> NULL. After inserting 474, the list is 141 -> 302 -> 164 ->
+530 -> 474 -> NULL, which is the final list.
+*/
 import java.io.*;
 import java.util.*;
 
