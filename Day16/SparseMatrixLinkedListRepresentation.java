@@ -1,4 +1,11 @@
 import java.util.Scanner;
+
+// 0. In this program
+// Check whether a matrix is a sparse matrix or not.
+// Example:-
+// 1 1 0
+// 0 0 2
+// 0 0 0
 class node
 {
 	node next;
