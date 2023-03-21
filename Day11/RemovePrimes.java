@@ -1,5 +1,6 @@
 /*
 Problem:
+0. In this program
 1. You are given an ArrayList of positive integers.
 2. You have to remove prime numbers from the given ArrayList and return the updated ArrayList.
 
