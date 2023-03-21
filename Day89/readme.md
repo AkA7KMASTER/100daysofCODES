@@ -6,6 +6,7 @@ Given a string, s, let U be the set of weights for all possible uniform contiguo
 
 ## Example
 
+
 s=’abbcccddddd’  
 queries = [1,7,5,4,15]  
 Working from left to right, weights that exist are:
