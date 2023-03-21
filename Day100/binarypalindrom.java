@@ -1,4 +1,7 @@
- class binarypalindrom 
+
+// 0. In this program
+// 1. We have to Check Given Number is Palindrom or not but a bit of twist we have check according to Binary form
+class binarypalindrom 
  {
    public static void main(String argc[]) {
       long num = 341, n1;
