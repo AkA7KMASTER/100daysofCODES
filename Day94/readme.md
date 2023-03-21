@@ -7,6 +7,7 @@ Note: A square integer is an integer which is the square of an integer, e.g, 1,4
 
 a=24 
 
+
 b=49  
 There are three square integers in the range:25,36 and 49. Return 3.
 
