@@ -22,6 +22,7 @@ class Result {
         List<String> result = new ArrayList<>();
         for (int i = 0; i < s.length(); i++) {
             weights.add(count * ((int) s.charAt(i) - 96));
+            
             if (i + 1 < s.length() && s.charAt(i) == s.charAt(i + 1)) {
                 count++;
             } else {
