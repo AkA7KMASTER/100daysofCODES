@@ -9,6 +9,7 @@ You have an empty sequence, and you will be given N queries. Each query is one o
 
 ### Function Description
 
+
 Complete the getMax function in the editor below.
 
 getMax has the following parameters:
