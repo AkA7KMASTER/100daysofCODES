@@ -12,6 +12,7 @@ class Result {
      *  2. INTEGER b
      */
 
+    
     public static int squares(int a, int b) {
     // Write your code here
         int as = (int)Math.sqrt((double)a);
