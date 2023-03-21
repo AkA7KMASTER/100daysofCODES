@@ -3,6 +3,7 @@ You are given an array of n integers,ar=ar[0],ar[1],…,ar[n-1] , and a positive
 
 ## Example
 - ar = [1,2,3,4,5,6]
+- 
 - k=5.
 
 Our three pairs meeting the criteria are [1,4],[2,3] and [4,6].
