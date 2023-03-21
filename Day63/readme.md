@@ -8,6 +8,7 @@ removeDuplicates has the following parameter:
 SinglyLinkedListNode pointer head: a reference to the head of the list  
 
 ### Input Format
+
    
 The input is handled by the code in the editor and the format is as follows:  
 The first line contains an integer t, denoting the number of test cases. The format for each test case is as follows:  
