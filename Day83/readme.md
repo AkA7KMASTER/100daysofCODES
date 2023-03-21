@@ -7,6 +7,7 @@ There are two each of types 1 and 2, and one sighting of type 3. Pick the lower 
 
 ## Function Description
 
+
 Complete the migratoryBirds function in the editor below. It should return the lowest type number of the most frequently sighted bird.
 
 migratoryBirds has the following parameter(s):
