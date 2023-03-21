@@ -8,6 +8,7 @@ public class QueueusingTwoStacks {
          * class should be named Solution.
          */
         Scanner sc = new Scanner(System.in);
+        
         int n = sc.nextInt();
         Stack<Integer> pushStack = new Stack<>();
         Stack<Integer> popStack = new Stack<>();
