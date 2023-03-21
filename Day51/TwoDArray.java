@@ -1,3 +1,37 @@
+/*
+Problem Statement
+You are given a 2D array with dimensions 6*6. An hourglass in an array is defined as a portion shaped like this:
+
+a b c
+  d
+e f g
+For example, if we create an hourglass using the number 1 within an array full of zeros, it may look like this:
+
+1 1 1 0 0 0
+0 1 0 0 0 0
+1 1 1 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+Actually, there are many hourglasses in the array above. The three topmost hourglasses are the following:
+
+1 1 1     1 1 0     1 0 0
+  1         0         0
+1 1 1     1 1 0     1 0 0
+
+Sample Input
+
+1 1 1 0 0 0
+0 1 0 0 0 0
+1 1 1 0 0 0
+0 0 2 4 4 0
+0 0 0 2 0 0
+0 0 1 2 4 0
+
+Sample Output
+
+19
+*/
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
