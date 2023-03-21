@@ -1,5 +1,5 @@
 /*
-Question: https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/wakanda-1-official/ojquestion
+0. In this proram
 Sample Input:
 1 2 3
 4 5 6
