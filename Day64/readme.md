@@ -3,6 +3,7 @@ Given pointers to the head nodes of 2 linked lists that merge together at some p
 
 ### Function Description
 
+
 Complete the findMergeNode function in the editor below.  
 findMergeNode has the following parameters:  
 ->SinglyLinkedListNode pointer head1: a reference to the head of the first list  
