@@ -7,6 +7,7 @@ There are two subarrays meeting the criterion: [1,1,2,2] and [4,4,5,5,5]. The ma
 
 ## Function Description
 
+
 Complete the pickingNumbers function in the editor below.    
 
 pickingNumbers has the following parameter(s):
