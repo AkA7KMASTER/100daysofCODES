@@ -13,6 +13,7 @@ Sample Output:
 I implemented: AdvancedArithmetic
 12
 */
+
 import java.util.Scanner;
 
 interface AdvancedArithmetic {
