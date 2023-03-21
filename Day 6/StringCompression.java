@@ -1,4 +1,4 @@
-/* Taken from : https://www.pepcoding.com/resources/online-java-foundation/string,-string-builder-and-arraylist/string-compression-official/ojquestion
+/*
 1. You are given a string. 
 2. You have to compress the given string in the following two ways - 
    First compression -> The string should be compressed such that consecutive duplicates of characters are replaced with a single character.
