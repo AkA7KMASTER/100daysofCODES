@@ -8,6 +8,7 @@ class Result {
      *
      * The function accepts INTEGER n as parameter.
      */
+    
 
     public static void extraLongFactorials(int n) {
     // Write your code here
