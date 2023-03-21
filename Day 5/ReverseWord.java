@@ -1,4 +1,5 @@
 //program to reverse each word in the given sentence
+
 import java.util.*;
 public class ReverseWord {
   static void reverseWordInMyString(String str) {
