@@ -10,6 +10,7 @@ void topView(node * root) {
 }
 ```
 
+
 ### Output Format
 
 Print the values on a single line separated by space.
