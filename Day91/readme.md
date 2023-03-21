@@ -7,6 +7,7 @@ Given a list of prices for the flavors of ice cream, select the two that will co
 m=6, cost=[1,2,3,4,5,6]
 The two flavors that cost 1 and 5 meet the criteria. Using 1-based indexing, they are at indices 1 and 4.
 
+
 ## Function Description
 
 Complete the icecreamParlor function in the editor below.
