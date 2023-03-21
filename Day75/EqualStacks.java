@@ -15,6 +15,7 @@ class Result {
      * 3. INTEGER_ARRAY h3
      */
 
+    
     public static int equalStacks(List<Integer> h1, List<Integer> h2, List<Integer> h3) {
         // Write your code here
         int cap1 = 0;
